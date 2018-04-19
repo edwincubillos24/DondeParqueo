@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158015090364",
+    "firebase_url": "https://dondeparqueo-33a53.firebaseio.com",
+    "project_id": "dondeparqueo-33a53",
+    "storage_bucket": "dondeparqueo-33a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158015090364:android:fe08228664cdbe4d",
+        "android_client_info": {
+          "package_name": "com.edwinacubillos.dondeparqueo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158015090364-i8jibkoug3ea8u44mf634ofs23pq3vva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinacubillos.dondeparqueo",
+            "certificate_hash": "07446338a7092c27d0cc5b94eabb08dcb38a0557"
+          }
+        },
+        {
+          "client_id": "158015090364-t9q6c882nup6cauvgcilmq6l33a9p3kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZb99ZJ2mq2yV_N1Q3K8yUljyAQu4w8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158015090364-t9q6c882nup6cauvgcilmq6l33a9p3kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
